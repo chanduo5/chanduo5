@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=cloud+computing+banner+gif&tbm=isch&ved=2ahUKEwjz17-kieCEAxUus2MGHZdqBT4Q2-cCegQIABAA&oq=cloud+computing+banner+gif&gs_lp=EgNpbWciGmNsb3VkIGNvbXB1dGluZyBiYW5uZXIgZ2lmSIM3UOcOWIMycAB4AJABAJgBvQKgAckZqgEHMC42LjguMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBxAAGIAEGBjCAgUQABiABMICBBAAGB7CAgYQABgFGB7CAgYQABgIGB6IBgE&sclient=img&ei=4ZvoZbPjJ67mjuMPl9WV8AM&bih=645&biw=1360&rlz=1C1RXQR_enIN1069IN1070#imgrc=XBPawO5dt0_ewM)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bobcloud.net%2F&psig=AOvVaw0V3OLYeKViDVNR0TXrMeIw&ust=1709830035404000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiEqK6wi-CEAxU2fGwGHZVcA7UQjRx6BAgAEBY)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chander Mohan</h1>
 <h3 align="center">A passionate cloud computing engineer from India</h3>
 
