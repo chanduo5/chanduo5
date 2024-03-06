@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bobcloud.net%2F&psig=AOvVaw0V3OLYeKViDVNR0TXrMeIw&ust=1709830035404000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiEqK6wi-CEAxU2fGwGHZVcA7UQjRx6BAgAEBY)](https://rishavchanda.io)
+[![MasterHead](https://www.bobcloud.net/wp-content/uploads/2023/12/banner-bg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chander Mohan</h1>
 <h3 align="center">A passionate cloud computing engineer from India</h3>
 
