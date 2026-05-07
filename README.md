@@ -23,17 +23,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=chanduo5&label=Profile%20Views&color=0d1117&style=for-the-badge&labelColor=00d2ff" alt="Profile Views" />
   
-  <a href="https://github.com/chanduo5">
-    <img src="https://img.shields.io/github/followers/chanduo5?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d2ff&logo=github" alt="GitHub followers" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:meenachandu101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
-  </a>
+<a href="https://github.com/chanduo5"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&emsp;&emsp;
+<a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&emsp;&emsp;
+<a href="mailto:meenachandu101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 </div>
 
@@ -222,25 +214,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-&nbsp;
-<a href="https://instagram.com/_chandu05_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="http://www.youtube.com/@_chandu05_">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/chander_mohan">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:meenachandu101@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&emsp;&emsp;<a href="https://instagram.com/_chandu05_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&emsp;&emsp;<a href="http://www.youtube.com/@_chandu05_"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" /></a>&emsp;&emsp;<a href="https://twitter.com/chander_mohan"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>&emsp;&emsp;<a href="mailto:meenachandu101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 </div>
 
