@@ -1,28 +1,270 @@
-[![MasterHead](https://www.bobcloud.net/wp-content/uploads/2023/12/banner-bg.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Chander Mohan</h1>
-<h3 align="center">A passionate cloud computing engineer from India</h3>
+<!-- ████████████████████████████████████████████████████████ -->
+<!-- ██         CHANDER MOHAN MEENA — GITHUB PROFILE README      ██ -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<!-- ═══════════════════ ANIMATED TOP BANNER ═══════════════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanduo5&label=Profile%20views&color=0e75b6&style=flat" alt="chanduo5" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a43,100:00d2ff&height=300&section=header&text=Chander%20Mohan%20Meena&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=☁️%20Cloud%20Engineer%20%7C%20DevOps%20Architect%20%7C%20Open%20Source%20Explorer&descAlignY=58&descAlign=50&descSize=18&stroke=00d2ff&strokeWidth=1)
 
-- 🌱 I’m currently learning **Dev ops**
+</div>
 
-- 📫 How to reach me **meenachandu101@gmaiI.com**
+<!-- ═══════════════════ ANIMATED TYPING SVG ═══════════════════ -->
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chander mohan meena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chander mohan meena" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chander mohan meena" height="30" width="40" /></a>
-<a href="https://instagram.com/_chandu05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chandu05_" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@_chandu05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chandu🙃" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=🚀+Cloud+Architect+%7C+AWS+%7C+Azure+%7C+GCP;⚙️+DevOps+Engineer+%7C+Docker+%7C+Kubernetes;🐍+Python+%7C+Java+%7C+Linux+Power+User;☁️+Building+the+future+in+the+Cloud...;🔥+Always+Learning+%7C+Always+Shipping!)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanduo5&show_icons=true&locale=en&layout=compact" alt="chanduo5" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanduo5&show_icons=true&locale=en" alt="chanduo5" /></p>
+<!-- ═══════════════════ PROFILE VIEWS + SOCIAL BADGES ═══════════════════ -->
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanduo5&" alt="chanduo5" /></p>
+  <img src="https://komarev.com/ghpvc/?username=chanduo5&label=Profile%20Views&color=0d1117&style=for-the-badge&labelColor=00d2ff" alt="Profile Views" />
+  
+  <a href="https://github.com/chanduo5">
+    <img src="https://img.shields.io/github/followers/chanduo5?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d2ff&logo=github" alt="GitHub followers" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:meenachandu101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+  </a>
+
+</div>
+
+<br/>
+<!-- ═══════════════════ ABOUT ME — TERMINAL CARD ═══════════════════ -->
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+ ║  $ whoami                                                      ║ 
+║  > Chander Mohan — Cloud Computing Engineer 🇮🇳                 ║
+║                                                                ║
+║  $ cat about.txt                                               ║
+║  >  Obsessed with: Cloud Architecture & DevOps Pipelines       ║
+║  >  Currently mastering: DevOps, CI/CD, IaC & SRE practices    ║
+║  >  Superpower: Turning infrastructure into elegant code       ║
+║  >  Mission: Automate everything that can be automated         ║
+║  >  Fun fact: I talk to servers. They usually listen.          ║
+║  >  Reach me: meenachandu101@gmail.com                         ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ANIMATED WAVE DIVIDER ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+<!-- ═══════════════════ SKILLS — BEAUTIFUL ICONS ═══════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; **Tech Arsenal**
+
+<div align="center">
+
+### ☁️ Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark&perline=3" />
+
+### 🐳 DevOps & Containers
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github,githubactions&theme=dark&perline=6" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css&theme=dark&perline=6" />
+
+### 🛢️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark&perline=6" />
+
+### 🎨 Tools & Design
+<img src="https://skillicons.dev/icons?i=vscode,photoshop,bash&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+
+
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **GitHub Stats**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=chanduo5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true&v=1" alt="Chander's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanduo5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_radius=10&langs_count=8&v=1" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ STREAK STATS ═══════════════════ -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chanduo5&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF6B6B&currStreakLabel=00D2FF&sideLabels=00D2FF&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **GitHub Trophies**
+
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chanduo5&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&v=1" alt="Chander's GitHub Trophies" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **Contribution Activity**
+
+<div align="center">
+
+[![Chander's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanduo5&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&area_color=0a3d62&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CLOUD JOURNEY MAP ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **Cloud Certification Roadmap**
+
+<div align="center">
+
+```
+ CLOUD JOURNEY PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  AWS Cloud Practitioner     ████████████░░░░  75% 🔥
+  AWS Solutions Architect    ████████░░░░░░░░  50% ⚡
+  Azure Fundamentals         █████████████░░░  80% 🔥
+  GCP Associate              ██████░░░░░░░░░░  40% 🌱
+  CKA (Kubernetes)           ███████░░░░░░░░░  45% 🐳
+  Docker Certified           ████████████░░░░  75% 🐳
+  DevOps Engineer            █████████░░░░░░░  55% ⚙️
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **What I'm Working On**
+
+<div align="center">
+
+|  Exploring |  Learning |  Building |
+|:---:|:---:|:---:|
+| Serverless Architecture | Terraform & IaC | CI/CD Pipelines |
+| Multi-Cloud Strategies | Prometheus + Grafana | Kubernetes Clusters |
+| Cloud Security | Helm Charts | Automation Scripts |
+| FinOps & Cost Optimization | GitOps with ArgoCD | Cloud-Native Apps |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3)
+
+<br/>
+
+##  **Let's Connect**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chander-mohan-meena-463597264/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+&nbsp;
+<a href="https://instagram.com/_chandu05_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="http://www.youtube.com/@_chandu05_">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/chander_mohan">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:meenachandu101@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ RANDOM DEV QUOTE ═══════════════════ -->
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0a3d62&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   ⭐ If you found this helpful, drop a star!                -->
+<!--   Made with ❤️ by Chander Mohan — Cloud Engineer 🇮🇳         -->
+<!-- ════════════════════════════════════════════════════════════ -->
